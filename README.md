@@ -1,4 +1,4 @@
-#自用
+# 自用
 管理 Python 版本和环境的工具
 
 *   p：非常简单的交互式 python 版本管理工具。[官网](https://github.com/qw3rtman/p)

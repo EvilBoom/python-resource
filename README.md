@@ -1,67 +1,4 @@
-# Python 资源大全中文版 
-
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-python](https://github.com/vinta/awesome-python) 是 vinta 发起维护的 Python 资源列表，内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由伯乐在线持续更新。
-
-Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
-
-* * *
-
-### 我们要做什么？
-
-- 基于 awesome-python 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[Scrapy：Python的爬虫框架](http://hao.jobbole.com/python-scrapy/)》
-  - 《[Flask：一个使用Python编写的轻量级Web应用框架](http://hao.jobbole.com/flask/)》
-
-* * *
-
-### 如何参与本项目？
-
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
-
-不过加入前，有几个小要求：
-
-* 英文还不错，能读懂英文并用自己的话复述；
-* 在用 Python；
-
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「Python大全」
-
-* * *
-
-### 如何为列表贡献新资源？
-
-欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
-
-* 请确保推荐的资源自己使用过
-* 提交PR时请注明推荐理由
-
-资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
-
-感谢您的贡献！
-
-* * *
-
-### 本项目的参与者
-
-- 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)
-
-注：名单不分排名，不定期补充更新
-
-* * *
-
-### 奖励计划
-
-虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
-
-* 整理超过 20 个资源后，可在伯乐在线上开通打赏；
-* 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
-
-* * *
-
-### 环境管理
-
+#自用
 管理 Python 版本和环境的工具
 
 *   p：非常简单的交互式 python 版本管理工具。[官网](https://github.com/qw3rtman/p)
@@ -1175,19 +1112,3 @@ Python 实现的算法和设计模式。
 *   [Projects](http://hao.jobbole.com/python-projects/)：Python项目大集合。[官网](https://github.com/karan/Projects)
 *   [The Hitchhiker’s Guide to Python](http://hao.jobbole.com/the-hitchhikers-guide-to-python/)：旅行者的Python学习指南。[官网](http://docs.python-guide.org/en/latest/)
 *	[Code Like a Pythonista: Idiomatic Python](http://top.jobbole.com/18767/)：如何像Python高手(Pythonista)一样编程。[官网](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
-
-<h3 id="websites">知名网站</h3>
-*值得关注的 Python 技术站点。*
-
-<h4>中文站点</h4>
-
-* 伯乐在线 Python 频道：分享 Python 开发技术、相关的行业动态。[官网](http://python.jobbole.com/)
-
-<h4>英文站点</h4>
-
-* 《[值得关注的 10 个 Python 英文博客](http://python.jobbole.com/81730/)》
-
-<h3 id="weibo-weixin">微博、微信公众号</h3>
-* Python开发者 微博：[@Python开发者](http://weibo.com/u/5305630013)
-* Python开发者：人生苦短，我用 Python。Python 越来越受广大程序员的喜爱。「Python开发者」是最受欢迎的、专注分享Python技术的微信公众号，主要分享 Python 相关的技术文章、工具资源和资讯等。
-<br><img src="http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg" width=150 height=150>
